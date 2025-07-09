@@ -12,7 +12,7 @@
 //6) Handle a player clicking a square with a `handleClick` function.
 
 //7) Create Reset functionality.
-
+//
 
 /*-------------------------------- Constants --------------------------------*/
 const winningCombos = [
